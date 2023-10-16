@@ -1,0 +1,8 @@
+datasets
+transformers[sentencepiece]
+tensorflow
+#sacrebleu
+#evaluate
+#pandas
+#keras
+

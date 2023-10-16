@@ -25,6 +25,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+*saved_model/
+*finetuned_model/
+*traducoes_en_pt.hf/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
