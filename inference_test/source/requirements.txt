@@ -1,0 +1,7 @@
+Flask
+flasgger
+Flask-RESTful
+flask-swagger-ui
+gunicorn
+transformers[sentencepiece]
+tensorflow
