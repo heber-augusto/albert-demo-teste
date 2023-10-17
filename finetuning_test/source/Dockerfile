@@ -18,8 +18,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 VOLUME /app/input
 VOLUME /app/output
 
-RUN pip install --no-cache-dir -r datasets
-
 # Comando a ser executado quando o contêiner for iniciado
 CMD ["python", "code.py"]
 
